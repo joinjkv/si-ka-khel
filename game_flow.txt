@@ -1,0 +1,13 @@
+# Si ka Khel – Game Flow Plan
+
+1. Choose startup domain: SaaS, EdTech, Gaming
+2. Get seed funding: ₹10L
+3. Monthly Actions:
+   - Hire team
+   - Build product
+   - Run ads
+   - Seek funding
+   - Launch beta
+4. Revenue/Expense simulation
+5. Win condition: Reach ₹1 Cr valuation
+6. Fail condition: Run out of funds
